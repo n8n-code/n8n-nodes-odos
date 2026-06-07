@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-odos",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Odos DeFi routing protocol optimizing token swaps by searching millions of paths for the best rates and lowest fees",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-odos",
